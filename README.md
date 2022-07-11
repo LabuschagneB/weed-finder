@@ -1,3 +1,5 @@
+![ts](https://badgen.net/badge/Built%20With/TypeScript/blue)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
